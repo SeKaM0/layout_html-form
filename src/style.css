@@ -1,13 +1,8 @@
 /* styles go here */
-.groups:nth-last-of-type(n+1) {
-  margin-top: 20px;
+.groups {
+  margin-bottom: 20px;
 }
 
-.form_fields:nth-last-of-type(n+1) {
-  margin-top: 10px;
-
-}
-
-button {
-  margin-top: 20px;
+.form_fields {
+  padding-bottom: 10px;
 }
